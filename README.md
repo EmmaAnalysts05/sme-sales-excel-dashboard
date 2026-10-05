@@ -25,10 +25,10 @@ Through formulas and Pivot Data architectures, the model extracts five strategic
 ---
 
 ## 📸 Dashboard Previews
-![Excel Interactive Dashboard Overview](Assets/dashboard-overview.png)
+![Excel Interactive Dashboard Overview](Assets/dashboard_overview.png)
 *Figure 1: Dynamic Excel dashboard tab utilizing Slicers, interactive KPI card tiles, and structured pivot visual graphs.*
 
-![Pivot Architecture and Summary Tables](Assets/pivot-worksheets.png)
+![Pivot Architecture and Summary Tables](Assets/pivot_worksheets.png)
 *Figure 2: Dedicated backend worksheets hosting automated Pivot Tables for cohort segmentation and time-series extraction.*
 
 ---
